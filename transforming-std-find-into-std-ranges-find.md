@@ -1,5 +1,7 @@
 # Transforming `std::find` into `std::ranges::find`
 
+**cjdb.com.au/transforming-std-find-into-std-ranges is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/transforming-std-find-into-std-ranges to preserve link integrity moving forward.**
+
 The [last time we met](https://www.cjdb.com.au/blog/2018/05/15/prepping-yourself-to-conceptify-algorithms),
 we had some fun discovering what it means to write a concept. Specifically, we derived the concept
 `ranges::EqualityComparableWith`, which allows us to describe algorithms that check for cross-type

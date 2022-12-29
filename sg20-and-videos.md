@@ -1,5 +1,7 @@
 # SG20 Education and Recommended Videos for Teaching C++
 
+**cjdb.com.au/sg20-and-videos is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/sg20-and-videos to preserve link integrity moving forward.**
+
 ## Abstract
 
 In today's blog, we look at both the newly minted Study Group for education in the C++ Standard

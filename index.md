@@ -1,5 +1,6 @@
 # Home
 
+**cjdb.com.au is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz to preserve link integrity moving forward.**
 # Articles
 
 ## [How Senators are elected](senate-elections.md)

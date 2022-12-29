@@ -1,5 +1,7 @@
 # A Quick Look at What P1754 Will Change (Part 1)
 
+**cjdb.com.au/p174-changes-part-1 to preserve link integrity moving forward is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/p174-changes-part-1 to preserve link integrity moving forward.**
+
 **Date published:* 2019-07-08
 
 [P1754], or _Rename concepts to standard_case for C++20, while we still can_ is a proposal with a

@@ -1,5 +1,7 @@
 # A Prime Opportunity for Ranges
 
+**cjdb.com.au/a-prime-opportunity-for-ranges  to preserve link integrity moving forward is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/a-prime-opportunity-for-ranges  to preserve link integrity moving forward.**
+
 It's been a while since my last blog. This isn't the blog that I promised, but it's still an
 important one. If you haven't read [_Prepping Yourself to Conceptify Algorithms_][16] and
 [_Transforming `std::find` into `std::ranges::find`_][17], please do go and read those: there are a

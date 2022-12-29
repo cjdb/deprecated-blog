@@ -1,5 +1,7 @@
 # How voting for your House of Representatives Member works
 
+**cjdb.com.au/preferential-voting to preserve link integrity moving forward is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/preferential-voting to preserve link integrity moving forward.**
+
 > 2022-04-27
 
 ## Introduction

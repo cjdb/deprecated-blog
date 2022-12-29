@@ -1,5 +1,7 @@
 # Prepping Yourself to Conceptify Algorithms
 
+**cjdb.com.au/blog/2018/05/15/prepping-yourself-to-conceptify-algorithms is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/prepping-yourself-to-conceptify-algorithms to preserve link integrity moving forward.**
+
 Ever since I found out about concepts, I've been fascinated with them. The other day, I was playing
 a party game, and the question the game asked some of my friends was "If CHRIS had a nightclub, what
 would their secret password be?". The first answer was 'typename T', and the winning answer (by
@@ -181,7 +183,7 @@ brevity). To speed things up, I'm going to take the definition from the
 template <typename T1, typename T2>
 concept WeaklyEqualityComparable =
    requires(T1 const& a, T2 const& b) {
-      {a == b} -> Boolean&&; 
+      {a == b} -> Boolean&&;
       {b == a} -> Boolean&&;
       {a != b} -> Boolean&&;
       {b != a} -> Boolean&&;

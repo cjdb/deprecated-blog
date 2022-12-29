@@ -1,5 +1,7 @@
 # How Senators are elected
 
+**cjdb.com.au/senate-elections is now deprecated and will be removed in 2025. Please update references to https://blog.cjdb.xyz/senate-elections to preserve link integrity moving forward.**
+
 > 2022-05-14
 
 ## Introduction
